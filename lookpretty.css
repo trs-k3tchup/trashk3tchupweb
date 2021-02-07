@@ -46,32 +46,32 @@ div.content {
 	background-color: rgb(35, 35, 35);
 }
 .youtube {
-	background: url('spritesheetlol.png') no-repeat -15px -326px;
+	background: url('img/spritesheetlol.png') no-repeat -15px -326px;
 	width: 310px;
 	height: 110px;
 }
 .youtube:hover {
-	background: url('spritesheetlol.png') no-repeat -12px -57px;
+	background: url('img/spritesheetlol.png') no-repeat -12px -57px;
 	width: 310px;
 	height: 110px;
 }
 .twitter {
-	background: url('spritesheetlol.png') no-repeat -345px -326px;
+	background: url('img/spritesheetlol.png') no-repeat -345px -326px;
 	width: 310px;
 	height: 110px;
 }
 .twitter:hover {
-	background: url('spritesheetlol.png') no-repeat -342px -57px;
+	background: url('img/spritesheetlol.png') no-repeat -342px -57px;
 	width: 310px;
 	height: 110px;
 }
 .scratch {
-	background: url('spritesheetlol.png') no-repeat -674px -325px;
+	background: url('img/spritesheetlol.png') no-repeat -674px -325px;
 	width: 311px;
 	height: 112px;
 }
 .scratch:hover {
-	background: url('spritesheetlol.png') no-repeat -671px -56px;
+background: url('img/spritesheetlol.png') no-repeat -671px -56px;
 	width: 311px;
 	height: 112px;
 }
