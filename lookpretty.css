@@ -1,0 +1,77 @@
+.link:hover {
+	color: rgb(255, 28, 28);
+}
+* {
+	font-family: Franklin Gothic;
+	color: rgb(255, 255, 255);
+}
+div.navbar ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+div.navbar li {
+	float: left;
+	padding: 10px;
+	border: 2px solid rgb(53, 255, 0);
+	margin: 5px;
+	background-color: rgb(35, 35, 35);
+}
+div.navbar li:hover {
+	float: left;
+	padding: 10px;
+	border: 2px solid rgb(53, 255, 0);
+	margin: 5px;
+	background-color: rgb(50, 50, 50);
+	color: rgb(40, 161, 252);
+}
+div.navbar li:active {
+	float: left;
+	padding: 10px;
+	border: 2px solid rgb(40, 161, 252);
+	margin: 5px;
+	background-color: rgb(100, 100, 100);
+	color: rgb(255, 28, 28);
+}
+body {
+	background-color: rgb(0, 1, 46);
+}
+div.content {
+	border: 2px solid rgb(53, 255, 0);
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: rgb(35, 35, 35);
+}
+.youtube {
+	background: url('spritesheetlol.png') no-repeat -15px -326px;
+	width: 310px;
+	height: 110px;
+}
+.youtube:hover {
+	background: url('spritesheetlol.png') no-repeat -12px -57px;
+	width: 310px;
+	height: 110px;
+}
+.twitter {
+	background: url('spritesheetlol.png') no-repeat -345px -326px;
+	width: 310px;
+	height: 110px;
+}
+.twitter:hover {
+	background: url('spritesheetlol.png') no-repeat -342px -57px;
+	width: 310px;
+	height: 110px;
+}
+.scratch {
+	background: url('spritesheetlol.png') no-repeat -674px -325px;
+	width: 311px;
+	height: 112px;
+}
+.scratch:hover {
+	background: url('spritesheetlol.png') no-repeat -671px -56px;
+	width: 311px;
+	height: 112px;
+}
